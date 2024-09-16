@@ -17,6 +17,7 @@ public class Main {
 		System.out.println("What's your name?");
 		String name = in.nextLine();
 		System.out.println("One day, "+name+" wrote a Mad Lib in class!");
+		
 
 	}
 
