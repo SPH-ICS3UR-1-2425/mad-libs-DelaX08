@@ -13,8 +13,12 @@ public class Main {
 		 */
 		
 		Scanner in = new Scanner(System.in);
-		System.out.println("Welcome to Mad Libs!");
-		System.out.println("What's your name?");
+		System.out.println("Give me a country");
+		String country = in.nextLine(); 
+		
+		
+		
+		System.out.println("");
 		String name = in.nextLine();
 		System.out.println("One day, "+name+" wrote a Mad Lib in class!");
 		
