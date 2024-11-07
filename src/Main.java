@@ -41,7 +41,7 @@ public class Main {
 		
 		System.out.println("On a " +Dayofweek+ " morning, " + person1 + " and " + person2 + " were so tired of " + responsibility + " that they took their pet " + animal+ ", " + petname+ ", and then went to the airport, where they took the " + time+ " "+ vehicle + " to " + Countryname + ". When they arrived, they decided to stay in there forever, working as " + Weirdjob+ " and eating " + food+ "."); 
 				
-		
+	
 		// person 1 
 		// person 2 
 		// animal 
